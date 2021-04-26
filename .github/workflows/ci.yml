@@ -1,4 +1,4 @@
-name: Simple Gradle Build
+name: PPS-CI-LAB
 on:
   push:
 jobs:
